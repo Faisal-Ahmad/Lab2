@@ -4,7 +4,7 @@
 <head>
 </head>
 <body>
-</body>
+
 <form name="application" method="post" action="login.php">
 <!--Table Start-->
 <table align="center" >
@@ -91,5 +91,5 @@
 	</tr>
 </table>
 </form>
-
+</body>
 </html>
